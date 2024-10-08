@@ -1,1 +1,1 @@
-# mirror
+# face_recognition_project
